@@ -22,7 +22,9 @@
     "teal": "#9bb4bc",
     "blue": "#6e94b2",
     "iris": "#7e98e8",
-    "green": "#7fa563"
+    "green": "#7fa563",
+    "diffAdd": "#293125",
+    "diffDelete": "#3b242a"
   },
   "theme": {
     "primary": { "dark": "iris", "light": "iris" },
@@ -46,12 +48,12 @@
     "diffHunkHeader": { "dark": "yellow", "light": "yellow" },
     "diffHighlightAdded": { "dark": "green", "light": "green" },
     "diffHighlightRemoved": { "dark": "red", "light": "red" },
-    "diffAddedBg": { "dark": "#1f2918", "light": "#1f2918" },
-    "diffRemovedBg": { "dark": "#36191f", "light": "#36191f" },
+    "diffAddedBg": { "dark": "diffAdd", "light": "diffAdd" },
+    "diffRemovedBg": { "dark": "diffDelete", "light": "diffDelete" },
     "diffContextBg": { "dark": "shadow", "light": "shadow" },
     "diffLineNumber": { "dark": "muted", "light": "muted" },
-    "diffAddedLineNumberBg": { "dark": "#171f12", "light": "#171f12" },
-    "diffRemovedLineNumberBg": { "dark": "#2a1318", "light": "#2a1318" },
+    "diffAddedLineNumberBg": { "dark": "diffAdd", "light": "diffAdd" },
+    "diffRemovedLineNumberBg": { "dark": "diffDelete", "light": "diffDelete" },
     "markdownText": { "dark": "white", "light": "white" },
     "markdownHeading": { "dark": "peach", "light": "peach" },
     "markdownLink": { "dark": "iris", "light": "iris" },
