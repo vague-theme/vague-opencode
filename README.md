@@ -8,4 +8,4 @@
 
 1. Copy [vague.json](vague.json) file to `~/.config/opencode/themes/vague.json` (or `.opencode/themes/vague.json` for a project-only theme).
 2. Open OpenCode.
-3. Run `/theme` and pick `vague`. Or set `"theme": "vague"` in your OpenCode config.
+3. Run `/themes` and pick `vague`. Or set `"theme": "vague"` in your OpenCode config.
